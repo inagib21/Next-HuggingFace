@@ -9,7 +9,7 @@ export default function Chat() {
   return (
     <div className="flex flex-col w-full max-w-md py-12 px-4 mx-auto bg-gray-200 rounded-lg shadow-md">
       <h2 className="text-2xl font-semibold mb-4">
-        This chatbot could be tailored to your needs
+        This chatbot could be tailored to your needs 😊
       </h2>
       <div className="overflow-y-auto h-72">
         {messages.length > 0
